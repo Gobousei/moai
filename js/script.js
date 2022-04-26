@@ -1,1 +1,1 @@
-window.onload = window.open("https://www.google.com","mywindow","width=300,height=300");
+window.onload = window.open("https://gobousei.github.io/moai/moai.html","mywindow");
