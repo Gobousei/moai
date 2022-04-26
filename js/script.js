@@ -1,1 +1,1 @@
-window.onload = window.open('https://htmlpreview.github.io/?https://raw.githubusercontent.com/Gobousei/moai/main/moai.html', '_blank');;
+window.onload = window.open("https://www.google.com","mywindow","width=300,height=300");
